@@ -43,7 +43,7 @@ echo "
 echo " "
 echo " "
 echo " 
-         <─────────────── [ Coded by =*•.¸♡闩丂卄讠丂卄♡¸.•* ] ───────────────>            
+         <─────────────── [ Coded by =ARIJ ARMAN MANDAL ] ───────────────>            
                                                                " |lolcat
 
 

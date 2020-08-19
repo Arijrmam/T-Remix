@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "
+echo "    Made with love by TECH KNOWLEDGE LINUX WITH ARIJ
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
@@ -18,7 +18,9 @@ echo "
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo "
+echo "SUBSCRIBE CHANNEL-https://m.youtube.com/channel/UCJ5H4A3QAsIbQsVqfMBdZYQ
+---------------------------------------------------------------------------------
+       Creator= ARIJ ARMAN/    CHANNEL=TECH KNOWLEDGE LINUX WITH ARIJ
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat

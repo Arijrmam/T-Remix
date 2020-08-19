@@ -20,7 +20,7 @@ tput clear
 tput cup 3 30
 echo -e "\e[44m Like \e[41m Subscribe \e[m"
 tput cup 6 30
-echo -e "\x1b[42m BHAVIK TUTORIALS \x1b[m"
+echo -e "\x1b[42m ARIJ ARMAN-TECH KNOWLEDGE LINUX \x1b[m"
 tput cup 9 0
 echo -en "\e[93m what is your name : \e[m"
 read answer
@@ -38,7 +38,7 @@ tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe our channel \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "Bhavik Tutorials" |lolcat
+figlet -f slant "TECH KNOWLEDGE LINUX WITH ARIJ" |lolcat
 echo " "
 echo " "
 

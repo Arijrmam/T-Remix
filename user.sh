@@ -2,7 +2,7 @@
 clear
 echo " "
 echo " "
-echo -e "\e[33mEnter Your Banner Name \e[32m \n\n"
+echo -e "\e[33mEnter Your Banner Name(TECH KNOWLEDGE LINUX WITH ARIJ) \e[32m \n\n"
 read varbanner
 
 echo " " 
